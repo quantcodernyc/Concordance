@@ -1,0 +1,6 @@
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\WordCounter\obj\Debug\WordCounter.csprojResolveAssemblyReference.cache
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\WordCounter\obj\Debug\WordCounter.pdb

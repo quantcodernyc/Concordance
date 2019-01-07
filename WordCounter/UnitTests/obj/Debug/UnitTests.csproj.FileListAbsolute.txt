@@ -1,0 +1,13 @@
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\bin\Debug\mscorlib.dll
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\bin\Debug\WordCounter.exe
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\bin\Debug\WordCounter.pdb
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\bin\Debug\normidna.nlp
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\bin\Debug\normnfc.nlp
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\bin\Debug\normnfd.nlp
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\bin\Debug\normnfkc.nlp
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\bin\Debug\normnfkd.nlp
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\CDP\Documents\Visual Studio 2012\Projects\Practice\WordCounter-master\WordCounter-master\WordCounter\UnitTests\obj\Debug\UnitTests.pdb
